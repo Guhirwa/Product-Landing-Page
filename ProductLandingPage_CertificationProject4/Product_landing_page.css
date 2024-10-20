@@ -1,0 +1,41 @@
+
+#video-container {
+    max-width: 80%;
+    overflow: hidden;
+    margin: 90px auto;
+    margin-top: 20px
+
+  }
+#email {margin-top: 90px}
+
+  #video {
+    width: 100%;
+    height: auto;
+    max-width: 80%;
+  }
+.content{font-size: 20px;
+margin-left:100px; margin-right: 100px; margin-top: 30px}
+header nav a {text-decoration: none; color: black; margin-left: 25px; font-size: 20px;}
+
+header nav a:hover {color: white;}
+
+#nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient( rgb(120, 120, 100) 60%, white);
+    padding: 30px;
+    text-align: center;
+    z-index: 2;
+  }
+.email {margin-left: 50px; font-size: 20px;}
+#email {font-size: 20px; color:black;}
+.comment {margin-left: 50px}
+#comment {margin: 0 0 50 70;}
+#submit {font-size: 30px;border: 3px solid rgb(30, 30, 30); border-radius: 7px; margin: 0 50%}
+#submit:hover {background-color: rgb(100, 100, 60); color: white;}
+main {display: flex;}
+body {margin: 0 0 50 0;
+    padding: 0;
+    font-family: Arial, sans-serif;}
